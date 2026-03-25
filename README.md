@@ -1,5 +1,5 @@
-# mlplib
-MLPLIB is a Molecular Dynamics, Crystal Structure Search and Phonon calculations Library with Fair-Chem machine learning poteintial
+# mlpy
+MLPY is a Molecular Dynamics, Crystal Structure Search and Phonon calculations Library with Fair-Chem machine learning poteintial
 
 ## Features
 - Geometry optimization
